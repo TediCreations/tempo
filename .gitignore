@@ -19,3 +19,8 @@ bin
 doc
 obj
 tmp
+
+# GNU Global tags
+GRTAGS
+GPATH
+GTAGS
